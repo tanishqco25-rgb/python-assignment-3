@@ -1,0 +1,15 @@
+2025-11-26 15:23:30,751 - library_manager.inventory - INFO - Catalog loaded: 3 books
+2025-11-26 15:23:30,752 - library_manager.inventory - INFO - Library Inventory initialized
+2025-11-26 15:24:32,840 - library_manager.inventory - INFO - No book found with ISBN C:\Users\LENOVO\AppData\Local\Programs\Python\Python313\python.exe c:/Users/LENOVO/OneDrive/python/assignment/Library_manager_project/cli/main.py
+2025-11-26 15:27:02,728 - library_manager.inventory - INFO - No book found with ISBN 12
+2025-11-26 15:27:02,729 - library_manager.inventory - WARNING - Book not found with ISBN: 12
+2025-11-26 15:27:28,244 - library_manager.inventory - INFO - Book found by ISBN 9781593279288
+2025-11-26 15:27:28,245 - library_manager.inventory - WARNING - Book was not issued: Python Crash Course (ISBN: 9781593279288)
+2025-11-26 15:28:30,499 - library_manager.inventory - INFO - Catalog saved to library_catalog.json
+2025-11-26 15:28:30,500 - library_manager.inventory - INFO - Book added: Harry potter (ISBN: 46464646)
+2025-11-26 15:28:44,836 - library_manager.inventory - INFO - Book found by ISBN 46464646
+2025-11-26 15:28:44,838 - library_manager.inventory - INFO - Catalog saved to library_catalog.json
+2025-11-26 15:28:44,839 - library_manager.inventory - INFO - Book issued: Harry potter (ISBN: 46464646)
+2025-11-26 15:28:55,186 - library_manager.inventory - INFO - Book found by ISBN 46464646
+2025-11-26 15:28:55,188 - library_manager.inventory - INFO - Catalog saved to library_catalog.json
+2025-11-26 15:28:55,189 - library_manager.inventory - INFO - Book returned: Harry potter (ISBN: 46464646)

@@ -1,0 +1,15 @@
+# Core dependencies (all built-in Python modules)
+# No external dependencies required
+
+# Optional development dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
+pylint>=2.15.0
+
+# Note: The core application uses only Python standard library:
+# - json (built-in)
+# - pathlib (built-in)
+# - logging (built-in)
+# - unittest (built-in)
